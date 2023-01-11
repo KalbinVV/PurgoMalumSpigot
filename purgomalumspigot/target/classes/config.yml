@@ -1,4 +1,0 @@
-# Time between messages in seconds.
-timeout: 2
-# Timeout message
-message: Wait some seconds before send next message.
